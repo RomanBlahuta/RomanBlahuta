@@ -21,8 +21,6 @@ I'm currently a trainee at KindGeek getting work experience with Angular 9, Jasm
 
 Down below you can see all the programming languages and frameworks I have significant experience in.
 
----
-
 ### Programming languages
 
 <a style="margin-right: 25px;" href="https://www.python.org/">
