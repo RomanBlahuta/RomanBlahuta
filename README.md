@@ -105,11 +105,7 @@ Down below you can see all the programming languages and frameworks I have signi
 </a>
 
 <a href="https://nodejs.org/en/">
-  <img src="" height="100px">
-</a>
-
-<a href="">
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png">
 </a>
 
 ### IDEs I usually use
