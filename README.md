@@ -104,12 +104,12 @@ Down below you can see all the programming languages and frameworks I have signi
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" height="70px">
 </a>
 
-<a href="">
+<a href="https://nodejs.org/en/">
   <img src="" height="100px">
 </a>
 
 <a href="">
-  <img src="" height="100px">
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
 </a>
 
 ### IDEs I usually use
