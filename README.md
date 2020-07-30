@@ -38,22 +38,47 @@ Down below you can see all the programming languages and frameworks I have signi
   <img src="https://img.icons8.com/color/96/000000/typescript.png">
 </a>
 
-<a href="">
-  <img src="">
+<a href="https://www.java.com/en/">
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png">
 </a>
 
-<a href="">
-  <img src="">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://img.icons8.com/color/96/000000/html-5.png">
 </a>
 
-<a href="">
-  <img src="">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.icons8.com/color/96/000000/css3.png">
 </a>
 
-<a href="">
-  <img src="">
+<a href="https://www.w3schools.com/sql/">
+  <img src="https://img.icons8.com/small/96/000000/sql.png">
 </a>
+
 ### Frameworks
+
+<a href="https://angular.io/">
+  <img src="https://img.icons8.com/color/96/000000/angularjs.png">
+</a>
+
+<a href="https://reactjs.org/">
+  <img src="https://img.icons8.com/officel/80/000000/react.png">
+</a>
+
+<a href="https://flask.palletsprojects.com/en/1.1.x/">
+  <img src="https://img.icons8.com/ios/100/000000/python.png">
+</a>
+
+<a href="https://jasmine.github.io/2.0/introduction">
+  <img src="https://i.imgur.com/NPme51t.png" height="100px">
+</a>
+
+<a href="https://karma-runner.github.io/latest/index.html">
+  <img src="https://avatars3.githubusercontent.com/u/3284117?s=400&v=4" height="100px">
+</a>
+
+<a href="https://www.postgresql.org/">
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png">
+</a>
 
 ### IDEs
 
