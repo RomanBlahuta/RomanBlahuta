@@ -65,7 +65,7 @@ Down below you can see all the programming languages and frameworks I have signi
 </a>
 
 <a style="margin-right: 25px;" href="https://flask.palletsprojects.com/en/1.1.x/">
-  <img src="https://img.icons8.com/ios/100/000000/python.png">
+  <img src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" height="100px">
 </a>
 
 <a style="margin-right: 25px;" href="https://jasmine.github.io/2.0/introduction">
