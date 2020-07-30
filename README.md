@@ -140,6 +140,7 @@ Down below you can see all the programming languages and frameworks I have signi
 
 ## Contact info
 
+<div style="display: flex; justify-content center;"
 <a href="http://linkedin.com/in/roman-blahuta-2401731a4">
   <img src="https://cdn2.iconfinder.com/data/icons/on-point-social-media/141/LinkedIn-512.png" height="100px">
 </a>
@@ -147,6 +148,7 @@ Down below you can see all the programming languages and frameworks I have signi
 <a href="blahutaroma@gmail.com">
   <img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" height="100px">
 </a>
+</div>
 
 ---
 
@@ -161,4 +163,5 @@ Project | Description
 
 ---
 
-- ⚡ Fun fact:
+### ⚡ Fun fact:
+If you enjoy writing code in __C__ and/or __C++__ there is definitely something wrong with you.
