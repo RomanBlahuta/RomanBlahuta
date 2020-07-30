@@ -97,11 +97,11 @@ Down below you can see all the programming languages and frameworks I have signi
 </a>
 
 <a href="https://git-scm.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.pngt" height="100px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png" height="65px">
 </a>
 
-<a href="">
-  <img src="" height="100px">
+<a href="https://www.npmjs.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" height="70px">
 </a>
 
 <a href="">
