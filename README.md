@@ -108,7 +108,33 @@ Down below you can see all the programming languages and frameworks I have signi
   <img src="https://img.icons8.com/color/96/000000/nodejs.png">
 </a>
 
+---
+
 ### IDEs I usually use
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="100px">
+</a>
+
+<a href="https://www.jetbrains.com/webstorm/">
+  <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" height="100px">
+</a>
+
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" height="100px">
+</a>
+
+<a href="https://www.jetbrains.com/pycharm/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png" height="100px">
+</a>
+
+<a href="https://www.jetbrains.com/datagrip/">
+  <img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" height="100px">
+</a>
+
+<a href="https://notepad-plus-plus.org/downloads/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" height="100px">
+</a>
 
 ---
 
@@ -125,6 +151,13 @@ Down below you can see all the programming languages and frameworks I have signi
 ---
 
 ## My most interesting projects
+
+Project | Description
+------- | -----------
+<a href="https://github.com/RomanBlahuta/SH1106-ULTIMATE">**SH1106-ULTIMATE**</a> | A **C** library for manipulations with OLED displays with SH1106 internal drive chip. This library is written for STM32F411E-DISCOVERY and uses the HAL library.
+<a href="https://github.com/RomanBlahuta/HTML_CSS">**HTML_CSS**</a> | A static website containing some tutorials and the most essential info about HTML and CSS.
+<a href="https://github.com/RomanBlahuta/nihon-go">**Nihon-Go**</a> | A web platform for learning the basics of Japanese language. (_WIP_)
+<a href="https://github.com/RomanBlahuta/MoviePlusPlus">**MoviePlusPlus**</a> | A web search tool for information on your favourite movies with such features as "Favorite" list, search by title, plot description and other movie info. Uses __OMDb API__.
 
 ---
 
