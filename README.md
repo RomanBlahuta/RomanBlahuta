@@ -54,7 +54,7 @@ Down below you can see all the programming languages and frameworks I have signi
   <img src="https://img.icons8.com/small/96/000000/sql.png">
 </a>
 
-### Frameworks
+### Frameworks, libraries and other tools
 
 <a href="https://angular.io/">
   <img src="https://img.icons8.com/color/96/000000/angularjs.png">
@@ -80,7 +80,19 @@ Down below you can see all the programming languages and frameworks I have signi
   <img src="https://img.icons8.com/color/96/000000/postgreesql.png">
 </a>
 
-### IDEs
+<a href="https://mozilla.github.io/nunjucks/">
+  <img src="https://douglaszaltron.gallerycdn.vsassets.io/extensions/douglaszaltron/nunjucks-vscode-extensionpack/0.0.1/1543237401385/Microsoft.VisualStudio.Services.Icons.Default" height="100px">
+</a>
+
+<a href="">
+  <img src="" height="100px">
+</a>
+
+<a href="">
+  <img src="" height="100px">
+</a>
+
+### IDEs I usually use
 
 ---
 
