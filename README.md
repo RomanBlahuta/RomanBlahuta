@@ -140,7 +140,7 @@ Down below you can see all the programming languages and frameworks I have signi
 
 ## Contact info
 
-<div style="text-align: center;"
+<div style="text-align: center;">
 <a href="http://linkedin.com/in/roman-blahuta-2401731a4">
   <img src="https://cdn2.iconfinder.com/data/icons/on-point-social-media/141/LinkedIn-512.png" height="100px">
 </a>
