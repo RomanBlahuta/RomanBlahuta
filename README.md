@@ -25,86 +25,86 @@ Down below you can see all the programming languages and frameworks I have signi
 
 ### Programming languages
 
-<a href="https://www.python.org/">
+<a style="margin-right: 25px;" href="https://www.python.org/">
   <img src="https://img.icons8.com/color/96/000000/python.png">
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a style="margin-right: 25px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.icons8.com/nolan/96/javascript.png">
 </a>
 
 
-<a href="https://www.typescriptlang.org/">
+<a style="margin-right: 25px;" href="https://www.typescriptlang.org/">
   <img src="https://img.icons8.com/color/96/000000/typescript.png">
 </a>
 
-<a href="https://www.java.com/en/">
+<a style="margin-right: 25px;" href="https://www.java.com/en/">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png">
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a style="margin-right: 25px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.icons8.com/color/96/000000/html-5.png">
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a style="margin-right: 25px;" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://img.icons8.com/color/96/000000/css3.png">
 </a>
 
-<a href="https://www.w3schools.com/sql/">
+<a style="margin-right: 25px;" href="https://www.w3schools.com/sql/">
   <img src="https://img.icons8.com/small/96/000000/sql.png">
 </a>
 
 ### Frameworks, libraries and other tools
 
-<a href="https://angular.io/">
+<a style="margin-right: 25px;" href="https://angular.io/">
   <img src="https://img.icons8.com/color/96/000000/angularjs.png">
 </a>
 
-<a href="https://reactjs.org/">
+<a style="margin-right: 25px;" href="https://reactjs.org/">
   <img src="https://img.icons8.com/officel/80/000000/react.png" height="95px">
 </a>
 
-<a href="https://flask.palletsprojects.com/en/1.1.x/">
+<a style="margin-right: 25px;" href="https://flask.palletsprojects.com/en/1.1.x/">
   <img src="https://img.icons8.com/ios/100/000000/python.png">
 </a>
 
-<a href="https://jasmine.github.io/2.0/introduction">
+<a style="margin-right: 25px;" href="https://jasmine.github.io/2.0/introduction">
   <img src="https://i.imgur.com/NPme51t.png" height="100px">
 </a>
 
-<a href="https://karma-runner.github.io/latest/index.html">
+<a style="margin-right: 25px;" href="https://karma-runner.github.io/latest/index.html">
   <img src="https://avatars3.githubusercontent.com/u/3284117?s=400&v=4" height="100px">
 </a>
 
-<a href="https://www.postgresql.org/">
+<a style="margin-right: 25px;" href="https://www.postgresql.org/">
   <img src="https://img.icons8.com/color/96/000000/postgreesql.png">
 </a>
 
-<a href="https://mozilla.github.io/nunjucks/">
+<a style="margin-right: 25px;" href="https://mozilla.github.io/nunjucks/">
   <img src="https://douglaszaltron.gallerycdn.vsassets.io/extensions/douglaszaltron/nunjucks-vscode-extensionpack/0.0.1/1543237401385/Microsoft.VisualStudio.Services.Icons.Default" height="100px">
 </a>
 
-<a href="https://phaser.io/">
+<a style="margin-right: 25px;" href="https://phaser.io/">
   <img src="https://phaser.io/images/logo/logo-download-vector.png" height="100px">
 </a>
 
-<a href="https://sass-lang.com/">
+<a style="margin-right: 25px;" href="https://sass-lang.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="100px">
 </a>
 
-<a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">
+<a style="margin-right: 25px;" href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">
   <img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" height="100px">
 </a>
 
-<a href="https://git-scm.com/">
+<a style="margin-right: 25px;" href="https://git-scm.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.png" height="65px">
 </a>
 
-<a href="https://www.npmjs.com/">
+<a style="margin-right: 25px;" href="https://www.npmjs.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" height="70px">
 </a>
 
-<a href="https://nodejs.org/en/">
+<a style="margin-right: 25px;" href="https://nodejs.org/en/">
   <img src="https://img.icons8.com/color/96/000000/nodejs.png">
 </a>
 
@@ -114,17 +114,18 @@ Down below you can see all the programming languages and frameworks I have signi
 
 ## Contact info
 
+<a href="http://linkedin.com/in/roman-blahuta-2401731a4">
+  <img src="https://cdn2.iconfinder.com/data/icons/on-point-social-media/141/LinkedIn-512.png" height="100px">
+</a>
+
+<a href="blahutaroma@gmail.com">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" height="100px">
+</a>
+
 ---
 
 ## My most interesting projects
 
 ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...✨
-
+- ⚡ Fun fact:
