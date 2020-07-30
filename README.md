@@ -33,8 +33,9 @@ Down below you can see all the programming languages and frameworks I have signi
   <img src="https://img.icons8.com/nolan/96/javascript.png">
 </a>
 
-<a href="">
-  <img src="">
+
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.icons8.com/color/96/000000/typescript.png">
 </a>
 
 <a href="">
