@@ -110,7 +110,7 @@ Down below you can see all the programming languages and frameworks I have signi
 
 ---
 
-### IDEs I usually use
+## IDEs I usually use
 
 <a href="https://code.visualstudio.com/">
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="100px">
