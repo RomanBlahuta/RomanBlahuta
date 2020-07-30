@@ -61,7 +61,7 @@ Down below you can see all the programming languages and frameworks I have signi
 </a>
 
 <a href="https://reactjs.org/">
-  <img src="https://img.icons8.com/officel/80/000000/react.png">
+  <img src="https://img.icons8.com/officel/80/000000/react.png" height="95px">
 </a>
 
 <a href="https://flask.palletsprojects.com/en/1.1.x/">
@@ -82,6 +82,26 @@ Down below you can see all the programming languages and frameworks I have signi
 
 <a href="https://mozilla.github.io/nunjucks/">
   <img src="https://douglaszaltron.gallerycdn.vsassets.io/extensions/douglaszaltron/nunjucks-vscode-extensionpack/0.0.1/1543237401385/Microsoft.VisualStudio.Services.Icons.Default" height="100px">
+</a>
+
+<a href="https://phaser.io/">
+  <img src="https://phaser.io/images/logo/logo-download-vector.png" height="100px">
+</a>
+
+<a href="https://sass-lang.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="100px">
+</a>
+
+<a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">
+  <img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" height="100px">
+</a>
+
+<a href="https://git-scm.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/800px-Git-logo.svg.pngt" height="100px">
+</a>
+
+<a href="">
+  <img src="" height="100px">
 </a>
 
 <a href="">
