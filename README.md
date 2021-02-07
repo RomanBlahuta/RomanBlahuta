@@ -149,7 +149,7 @@ Project | Description
 ------- | -----------
 <a href="https://github.com/RomanBlahuta/SH1106-ULTIMATE">**SH1106-ULTIMATE**</a> | A **C** library for manipulations with OLED displays with SH1106 internal drive chip. This library is written for STM32F411E-DISCOVERY and uses the HAL library.
 <a href="https://github.com/RomanBlahuta/HTML_CSS">**HTML_CSS**</a> | A static website containing some tutorials and the most essential info about HTML and CSS.
-<a href="https://github.com/RomanBlahuta/nihon-go">**Nihon-Go**</a> | A web platform for learning the basics of Japanese language. (_WIP_)
+<a href="https://github.com/RomanBlahuta/ReactWinterSchool">**Rick & Morty Search Website**</a> | A student project website that is a frontend to Rick and Morty API. Search your favourite characters and episodes in the API's database through a ReactJS Frontend ;).
 <a href="https://github.com/RomanBlahuta/MoviePlusPlus">**MoviePlusPlus**</a> | A web search tool for information on your favourite movies with such features as "Favorite" list, search by title, plot description and other movie info. Uses __OMDb API__.
 
 ---
