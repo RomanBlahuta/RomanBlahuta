@@ -15,9 +15,8 @@ I'm currently a trainee at KindGeek getting work experience with Angular 9, Jasm
 
 **My field of interests:**
 * Front-end development
-* Game development
-* Browser game development
 * UI/UX design
+* Software engineering
 
 Down below you can see all the programming languages and frameworks I have significant experience in.
 
@@ -80,10 +79,6 @@ Down below you can see all the programming languages and frameworks I have signi
 
 <a style="margin-right: 25px;" href="https://mozilla.github.io/nunjucks/">
   <img src="https://douglaszaltron.gallerycdn.vsassets.io/extensions/douglaszaltron/nunjucks-vscode-extensionpack/0.0.1/1543237401385/Microsoft.VisualStudio.Services.Icons.Default" height="100px">
-</a>
-
-<a style="margin-right: 25px;" href="https://phaser.io/">
-  <img src="https://phaser.io/images/logo/logo-download-vector.png" height="100px">
 </a>
 
 <a style="margin-right: 25px;" href="https://sass-lang.com/">
