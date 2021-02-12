@@ -11,7 +11,7 @@ The newest passion of mine is game developing, even though for now it's just a h
 ## Skills & Interests
 
 I'm most experienced in Web Development, Front-end Development to be exact. I'm well acquainted with multiple JavaScript FE frameworks such as Angular, React as well as developing static HTML & CSS websites. I've used CSS preprocessors (SCSS to be exact) and HTML templating engines such as Nunjucks.
-I'm currently a trainee at KindGeek getting work experience with Angular 9, Jasmine and Karma.
+I was a frontend developer trainee at KindGeek getting work experience with Angular 9, Jasmine and Karma.
 
 **My field of interests:**
 * Front-end development
