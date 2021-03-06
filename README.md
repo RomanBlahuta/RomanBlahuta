@@ -152,6 +152,7 @@ Project | Description
 <a href="https://github.com/RomanBlahuta/ReactWinterSchool">**Rick & Morty Search Website**</a> | A student project website that is a frontend to Rick and Morty API. Search your favourite characters and episodes in the API's database through a ReactJS Frontend ;).
 <a href="https://github.com/RomanBlahuta/MoviePlusPlus">**MoviePlusPlus**</a> | A web search tool for information on your favourite movies with such features as "Favorite" list, search by title, plot description and other movie info. Uses __OMDb API__.
 <a href="https://github.com/RomanBlahuta/AlbumLookUp">**AlbumLookUp**</a> | A frontend part for some of Last.fm API 's functionality. You can look up popular albums of 6 given genres from API's database as well as mark them as "favorite".
+<a href="https://github.com/RomanBlahuta/AdaptiveLogIn">**AdaptiveLogIn**</a> | An adaptive ReactJS web page with log in functionality implemented through **react-hook-form**.
 
 ---
 
