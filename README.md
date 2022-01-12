@@ -153,6 +153,7 @@ Project | Description
 <a href="https://github.com/RomanBlahuta/MoviePlusPlus">**MoviePlusPlus**</a> | A web search tool for information on your favourite movies with such features as "Favorite" list, search by title, plot description and other movie info. Uses __OMDb API__.
 <a href="https://github.com/RomanBlahuta/AlbumLookUp">**AlbumLookUp**</a> | A frontend part for some of Last.fm API 's functionality. You can look up popular albums of 6 given genres from API's database as well as mark them as "favorite".
 <a href="https://github.com/RomanBlahuta/AdaptiveLogIn">**AdaptiveLogIn**</a> | An adaptive ReactJS web page with log in functionality implemented through **react-hook-form**.
+<a href="https://github.com/RomanBlahuta/Digital-Dungeons">**Digital-Dungeons** | D&D assistant cross-platform mobile app (Flutter + Firebase)
 
 ---
 
